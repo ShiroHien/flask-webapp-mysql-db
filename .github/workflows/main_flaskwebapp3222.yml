@@ -34,5 +34,5 @@ jobs:
       with:
         app-name: flaskwebapp3222
         slot-name: Production
-        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_7C427EECA72541169E49A9465E48069D }}
+        publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_38114B46F4064C108F0D777CA1064810 }}
 
